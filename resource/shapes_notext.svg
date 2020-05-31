@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,9 +43,9 @@
      inkscape:window-height="705"
      id="namedview545"
      showgrid="false"
-     inkscape:zoom="0.39202658"
-     inkscape:cx="-268.3431"
-     inkscape:cy="351.17693"
+     inkscape:zoom="0.78405316"
+     inkscape:cx="177.9373"
+     inkscape:cy="226.31495"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -838,17 +838,6 @@
        xlink:href="#Symbol_11_0_Layer0_38_FILL" />
   </g>
   <g
-     id="g328"
-     transform="translate(-287,349.8)">
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       id="use326"
-       xlink:href="#Symbol_11_0_Layer0_39_FILL" />
-  </g>
-  <g
      id="g332"
      transform="translate(-161.95482,470.03621)">
     <use
@@ -896,21 +885,6 @@
          x="0"
          id="use344"
          xlink:href="#Symbol_8_0_Layer0_0_FILL" />
-    </g>
-  </g>
-  <g
-     id="g354"
-     transform="translate(139.6,420.35)">
-    <g
-       id="g352">
-      <use
-         height="100%"
-         width="100%"
-         y="0"
-         x="0"
-         id="use350"
-         xlink:href="#Symbol_9_0_Layer0_0_FILL"
-         transform="translate(4)" />
     </g>
   </g>
   <g
